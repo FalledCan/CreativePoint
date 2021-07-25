@@ -1,0 +1,7 @@
+#&カラーコード,%prefix% 先頭,%cp% ポイント数, %player%
+prefix: "&6[&ecp&6]"
+points-you-have: "%prefix% &e現在所持しているcpは%cp%cpです。"
+give-point-target: "%prefix% &a%amount%cpを受け取りました。"
+give-point-sender: "%prefix% &a正常に%player%に%amount%cpを与えました。"
+offline: "%prefix% &c現在 %player% はオフラインです。"
+Not-a-number: "%prefix% &c正しい数値を入力してください。"

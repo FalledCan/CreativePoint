@@ -1,0 +1,16 @@
+name: CreativePoint
+version: ${project.version}
+main: xyz.masa3mc.creativepoint.CreativePoint
+api-version: 1.16
+authors: [ Siro ]
+description: This plugin is for Masa3MC only
+website: sirosan.xyz
+
+commands:
+  cpadd:
+    usage: /cpadd [player] [amount]
+    description: add point.
+    permission: cp.admin
+  cp:
+    usage: /cp
+    description: check ur point.

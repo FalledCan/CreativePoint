@@ -1,0 +1,10 @@
+Config:
+  Command-execution:
+    1:
+      point: 10
+      run:
+        - execute at %player% run summon minecraft:lightning_bolt
+    2:
+      point: 15
+      run:
+        - execute at %player% run summon minecraft:ender_dragon
